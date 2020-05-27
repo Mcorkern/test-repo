@@ -1,2 +1,2 @@
-# test-repo
+# TEST_REPO
  just a test
